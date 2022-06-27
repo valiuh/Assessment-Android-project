@@ -11,12 +11,13 @@
 • Android native development using Kotlin.
 
 #### Additional Tech requirements (based on job posirtion description)
-•MVVM;
-•Android Architecture Components;
+•MVVM.
+•Android Architecture Components.
 •RxJava is required.
 
 # Briew resul overview
 
+![AssessmentProject](https://user-images.githubusercontent.com/635261/176036613-eaf88912-b7cb-4413-8559-f9e058753ea9.gif)
 
 # Implementation description
 
