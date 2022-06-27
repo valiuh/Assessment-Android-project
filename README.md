@@ -21,7 +21,7 @@
 
 # Implementation description
 
-## Height level overview
+## High-level overview
 From the architectural point of view, the application build based on Layered Architecture. In our specific case, three layers were selected - presentation, domain, and data layer.
 - Presentation layer represented by MVVM architecture pattern. And MVVM was build around Android Architecture Components.
 
