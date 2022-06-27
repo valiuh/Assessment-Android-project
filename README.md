@@ -15,13 +15,13 @@
 - Android Architecture Components.
 - RxJava is required.
 
-# Briew resul overview
+# Brief result overview
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/635261/176037235-e980afc9-2d12-42de-af54-b50690708425.gif)
 
 # Implementation description
 
-## Hight level overview
+## Height level overview
 From the architectural point of view, the application build based on Layered Architecture. In our specific case, three layers were selected - presentation, domain, and data layer.
 - Presentation layer represented by MVVM architecture pattern. And MVVM was build around Android Architecture Components.
 
