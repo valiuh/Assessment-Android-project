@@ -1,23 +1,23 @@
 # Assessment Android project for interview
 
 ### User story
-• There’s a list of stock items (let’s say 10 items). Each has unique ID, name and price.
-• Mock API (in app) should return top 5 items with highest price at the moment.
-• Price of each item increased/decreased on each “API call” by random value within range (i.e. -5.0 .. +5.0)
-• Write an activity which shows a list of top 5 items. Each list item should show name and price.
-• Price label’s color is depending on price change, i.e. red for decreasing, green for increasing, and black for neutral.
+- There’s a list of stock items (let’s say 10 items). Each has unique ID, name and price.
+-  Mock API (in app) should return top 5 items with highest price at the moment.
+-  Price of each item increased/decreased on each “API call” by random value within range (i.e. -5.0 .. +5.0)
+-  Write an activity which shows a list of top 5 items. Each list item should show name and price.
+-  Price label’s color is depending on price change, i.e. red for decreasing, green for increasing, and black for neutral.
 
 #### Tech requirements
-• Android native development using Kotlin.
+-  Android native development using Kotlin.
 
 #### Additional Tech requirements (based on job posirtion description)
-•MVVM.
-•Android Architecture Components.
-•RxJava is required.
+- MVVM.
+- Android Architecture Components.
+- RxJava is required.
 
 # Briew resul overview
 
-![AssessmentProject](https://user-images.githubusercontent.com/635261/176036613-eaf88912-b7cb-4413-8559-f9e058753ea9.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/635261/176037235-e980afc9-2d12-42de-af54-b50690708425.gif)
 
 # Implementation description
 
