@@ -23,7 +23,7 @@
 
 ## Hight level overview
 From the architectural point of view, the application build based on Layered Architecture. In our specific case, three layers were selected - presentation, domain, and data layer.
-- Presentation layer represented by MVVM architecture pattern. MVVM build Android Architecture Components.
+- Presentation layer represented by MVVM architecture pattern. And MVVM was build around Android Architecture Components.
 
 - The domain layer was built around the Transaction Script approach. Where each Business Scenario is wrapped into its own Use Case, implemented as a Command pattern. Because the application is small, Transaction Script is preferable then Domain Model or Table Model.
 
